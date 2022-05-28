@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShredNek
+- 👋 Hi, I’m @Daniel Lee
 - 👀 I’m interested in becoming a platform developer/front end developer
 - 🌱 I’m currently learning how to use API's & getting to know OOP
 - 📫 How to reach me:
