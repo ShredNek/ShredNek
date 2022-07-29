@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Lee
 - 👀 I’m interested in becoming a platform developer/front end developer
-- 🌱 I’m currently learning how to use API's & getting to know OOP
+- 🌱 I’m currently learning how to more easliy access backend data
 - 📫 How to reach me:
     - E: danielleemusic98@gmail.com
 
