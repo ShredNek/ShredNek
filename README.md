@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Lee
-- 👀 I’m interested in becoming a platform developer/front end developer
-- 🌱 I’m currently learning how to build my portolio
+- 👀 I’m interested in becoming a front end/fullstack developer
+- 🌱 I’m currently applying for work
 - 📫 How to reach me:
     - E: danielleemusic98@gmail.com
 
