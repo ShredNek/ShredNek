@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel Lee
-- 👀 I’m interested in becoming a front end/fullstack developer
+- 👀 I’m interested in becoming a front end developer/css assassin
 - 🌱 I’m currently applying for work
 - 📫 How to reach me:
     - E: danielleemusic98@gmail.com
