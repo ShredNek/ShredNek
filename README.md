@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel Lee
-- 👀 I’m interested in becoming a front end develope
+- 👀 I’m interested in becoming a front end developer
 - 🌱 I’m currently applying for work
 - 📫 How to reach me:
     - E: danielleemusic98@gmail.com
