@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Daniel Lee
-- 👀 I’m interested in becoming a front end developer
-- 🌱 I’m currently applying for work
+- 👋 Hi, I’m Daniel Lee
+- 👀 I’m a Front End Developer at Causeis (since Sep 2024)
+- 🌱 I’m learning how to improve my full-stack TS skills
 - 📫 How to reach me:
     - E: danielleemusic98@gmail.com
 
